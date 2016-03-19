@@ -1,4 +1,4 @@
-import hashlib
+#!/usr/bin/python
 
 def main():
     row = 6
